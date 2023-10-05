@@ -86,16 +86,17 @@
         android:layout_gravity="center"
         android:layout_margin="10dp"
         android:contentDescription="null"/>
+
         <TextView
             android:id="@+id/textView5"
-            android:layout_width="wrap_content"
+            android:layout_width="106dp"
             android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_margin="101dp"
             android:layout_weight="1"
             android:text="Select You car"
-            android:textColor="@color/white"
-            android:layout_gravity="center"
-            android:layout_margin="100dp"
-            android:textSize="20dp"/>
+            android:textColor="@color/black"
+            android:textSize="20dp" />
     <ImageButton
         android:id="@+id/imageButton4"
         android:layout_width="wrap_content"
